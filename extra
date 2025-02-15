@@ -218,3 +218,7 @@ https://docs.aws.amazon.com/keyspaces/latest/devguide/access.credentials.html
 
 docker build . -t  appname
 docker run 3000:9000 appname
+
+//Express
+npm i express
+npm i ejs dotenv morgan mongodb@4.14.0
