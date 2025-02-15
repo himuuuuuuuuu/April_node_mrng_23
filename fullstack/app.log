@@ -1,0 +1,7 @@
+::1 - - [15/Feb/2025:10:40:15 +0000] "GET / HTTP/1.1" 200 9051
+::1 - - [15/Feb/2025:10:40:15 +0000] "GET /css/bootstrap.min.css HTTP/1.1" 200 109526
+::1 - - [15/Feb/2025:10:40:15 +0000] "GET /css/styles.css HTTP/1.1" 200 2674
+::1 - - [15/Feb/2025:10:40:15 +0000] "GET /js/bootstrap.min.js HTTP/1.1" 200 31828
+::1 - - [15/Feb/2025:10:40:15 +0000] "GET /js/bootstrap.min.js HTTP/1.1" 200 31828
+::1 - - [15/Feb/2025:10:40:16 +0000] "GET /fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 178
+::1 - - [15/Feb/2025:10:40:16 +0000] "GET /fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 177
